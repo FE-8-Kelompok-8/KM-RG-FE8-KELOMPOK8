@@ -1,6 +1,0 @@
-# Laila
-## Version Control
-....
-
-## What is Software Engineer
-....
