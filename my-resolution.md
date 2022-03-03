@@ -1,10 +1,9 @@
 # Materi
-## Laila
+## Zulfa
 ### Microservice
-...
 ### Micro Frontend
-...
 
 # Career Plan
-## laila
+## Zulfa
 ### Front-end Developer
+### Manager Proyek 
